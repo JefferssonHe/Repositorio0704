@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hola agrego esto
+=======
+Zafiro disculpa las cage
+Barby te amo, tambien disculpa
+>>>>>>> fbcaa478892555c6c4fb7102dd3b1c49362134cd
