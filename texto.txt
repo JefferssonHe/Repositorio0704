@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Zafiro disculpa las cage
 Barby te amo, tambien disculpa
+=======
+es un cambio
+>>>>>>> footer
